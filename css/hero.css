@@ -1,0 +1,70 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arail, sans-serif
+	line-height: 30px;
+}
+
+
+header{
+	background-color: #1B1D24;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Girassol', cursive;
+}
+
+.pinkc{
+	color: #FF8A8A;
+	font-family: 'Ma Shan Zheng', cursive;
+	font-size: 20px;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 1000px;
+	width: 500px;
+	border: 5px solid #DF2727
+}
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+html{
+	background-image: url("../img/vintage-wallpaper.png");
+}
+
+main img{
+	max-width: 100%;
+}
+
+a{
+	color: #FF8A8A;
+	font-family: 'Girassol', cursive;
+}
+
+a:hover{
+	color: #FF0000;
+}
+
+ol{
+	color: #FF8A8A;
+	font-family: 'Ma Shan Zheng', cursive;
+	line-height: 30px;
+	font-size: 25px;
+}
+
+footer{
+	color: white;
+
+}
